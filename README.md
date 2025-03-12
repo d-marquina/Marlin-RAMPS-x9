@@ -73,6 +73,8 @@ Changes made in Configuration.h:
 - X_HOME_DIR (line 1480)
 - X_MAX_POS X_MIN_POS (line 1497)
 - HOMING_FEEDRATE_MM_M (line 1884)
+- MAX_POS set to 360 (line 1496-1513)
+- Z_CLEARANCE_BETWEEN_PROBES set to 0 (line 1359)
 
 Changes made in Configuration_adv.h:
 - HOMING_BUMP_MM (line 837)
